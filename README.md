@@ -26,3 +26,6 @@ like static and dynamic analysis are used for finding vulnerabilities and are ve
 learning techniques help in shifting the focus from raw source code and mining information beyond
 the code. With the amount of open source code available for analysis we can utilize this information
 to train and prevent software vulnerabilities.
+
+
+## References
