@@ -2,12 +2,12 @@
 Unrecognized flaws in software often can be the cause of attackers compromising a program and
 forcing it to perform undesired behaviors including crashing or misusing user information.Thousands
 of such vulnerabilities are reported each year to Common Vulnerabilities and Exposures Database.
-(Total CVE records as of December 2021 are : 164960)[1] These vulnerabilities are often caused due
+(Total CVE records as of December 2021 are : 164960) These vulnerabilities are often caused due
 to some subtle errors but they can propagate fast due to code reuse or software being open source.
 The most famous example of such a vulnerability is the Equifax Breach which was termed as the most
 economically damaging hack in the U.S. history. Hackers took advantage of a known vulnerability
 in Apache struts Web application framework which is an open source project and this resulted in a
-massive exposure of personal information of 143 million US citizens. [9]
+massive exposure of personal information of 143 million US citizens. 
 Due to the volume of code being developed and the number of features available, developers
 can no longer verify security flaws manually.Additionally not all developers are software security
 experts. Traditional vulnerability detection tools rely on static or dynamic code analysis, symbolic
