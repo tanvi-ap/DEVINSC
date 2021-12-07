@@ -29,3 +29,12 @@ to train and prevent software vulnerabilities.
 
 
 ## References
+https://towardsdatascience.com/introduction-to-git-data-extraction-and-analysis-in-python-e7e2bf9b4606
+
+https://towardsdatascience.com/text-pre-processing-stop-words-removal-using-different-libraries-f20bac19929a
+
+https://towardsdatascience.com/nlp-preprocessing-with-nltk-3c04ee00edc0
+
+https://medium.com/swlh/how-to-train-word2vec-model-using-gensim-library-115b35440c90
+
+
